@@ -3,11 +3,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 const About = () => {
   return (
-    <BrowserRouter>
-      <div>
-        
-      </div>
-    </BrowserRouter>
+    <div></div>
   )
 }
 
