@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Feedbacks = () => {
   return (
@@ -6,4 +6,4 @@ const Feedbacks = () => {
   )
 }
 
-export default Feedbacks
+export default Feedbacks;
